@@ -92,11 +92,5 @@ class Jugador{
         return opcion;
     }
 
-    public int getÉxitos()
-    {
-        return(éxitos);
-    }
-    
     int éxitos;      // número de partidas ganadas
-    int winTotal;
 }
